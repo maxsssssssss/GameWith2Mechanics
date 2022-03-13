@@ -1,0 +1,9 @@
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\bin\Debug\GameWith2Mechanics.dll
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\bin\Debug\GameWith2Mechanics.pdb
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\obj\Debug\GameWith2Mechanics.csproj.AssemblyReference.cache
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\obj\Debug\GameWith2Mechanics.GeneratedMSBuildEditorConfig.editorconfig
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\obj\Debug\GameWith2Mechanics.AssemblyInfoInputs.cache
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\obj\Debug\GameWith2Mechanics.AssemblyInfo.cs
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\obj\Debug\GameWith2Mechanics.csproj.CoreCompileInputs.cache
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\obj\Debug\GameWith2Mechanics.dll
+E:\mini_projects\Games\GameWith2Mechanics\.mono\temp\obj\Debug\GameWith2Mechanics.pdb

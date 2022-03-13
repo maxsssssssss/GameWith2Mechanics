@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Game" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+margin_right = 77.0
+margin_bottom = 168.0
+rect_rotation = -59.4
+__meta__ = {
+"_edit_use_anchors_": false
+}
